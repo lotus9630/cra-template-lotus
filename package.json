@@ -1,19 +1,19 @@
 {
-    "name": "cra-template-lotus9630",
-    "version": "1.0.0",
-    "keywords": [
-        "react",
-        "create-react-app",
-        "template"
-    ],
-    "description": "최소한의 파일만 남긴 CRA",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/facebook/create-react-app.git",
-        "directory": "packages/cra-template"
-    },
-    "license": "MIT",
-    "engines": {
-        "node": ">=14"
-    }
+  "name": "cra-template-lotus",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "최소한의 파일만 남긴 CRA",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/facebook/create-react-app.git",
+    "directory": "packages/cra-template"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
 }
